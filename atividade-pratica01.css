@@ -1,0 +1,29 @@
+.header-pg1{
+    background-color: #fada2894;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sessão1-pg1{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.sessão2-pg1{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+.divsessao2{
+     width: 350px;
+    height: 350px;
+    background-color: #fee5ad;
+    text-align: center;
+}
+.divsessao2 button{
+    background-color: rgba(255, 255, 0, 0.212);
+    width: 30%;
+    color: black;
+}
