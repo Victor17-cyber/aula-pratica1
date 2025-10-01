@@ -1,0 +1,25 @@
+.header-inicial{
+    background-color: #fada2894;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.sessao1{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+padding: 40px;
+}
+.div-sessao1{
+    background-color: rgba(255, 255, 0, 0.212);
+    height: 400px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.div-sessao1 button{
+    background-color: rgba(185, 185, 143, 0.281);
+    
+}

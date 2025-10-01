@@ -1,0 +1,15 @@
+.header{
+    background-color: #fada2894;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sessao1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+div{
+    background-color: black;
+}
