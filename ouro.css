@@ -1,25 +1,24 @@
-.header-inicial{
+.header{
     background-color: #fada2894;
+    display: flex;
+    align-items: center;
     justify-content: center;
+}
+.section1{
     align-items: center;
     display: flex;
-}
-.sessao1{
-    display: flex;
+    justify-content: center;
+    padding: 40px;
     gap: 30px;
-    align-items: center;
-    justify-content: center;
-padding: 40px;
 }
-.div-sessao1{
+.div-section1{
+    background-color: rgb(255, 255, 255);
     width: 300px;
     height: 300px;
-    background-color: white;
     text-align: center;
 }
-.div-sessao1 button{
+.div-section1 button{
     background-color: rgba(185, 185, 143, 0.281);
     width: 100px;
     height: 50px;
-    
 }
